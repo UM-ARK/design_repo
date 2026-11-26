@@ -1,5 +1,12 @@
 # design_repo
-前端設計物料倉庫
+
+ARK（ARK ALL）前端設計物料倉庫。
+
+本倉庫隸屬 [UM-ARK](https://github.com/UM-ARK) 組織，專門存放 APP 相關的設計資產（宣傳圖、商店海報、Logo、設計規範等），與程式碼倉庫分離維護。對應的 APP 前端倉庫：
+
+- **APP 前端**：[UM-All-Frontend](https://github.com/UM-ARK/UM-All-Frontend)
+
+開發與設計可各取所需：寫功能看前端倉庫，找視覺與宣傳物料看本倉庫。
 
 ## Sketch 源檔
 
